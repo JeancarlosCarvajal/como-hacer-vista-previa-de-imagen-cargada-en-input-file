@@ -1,5 +1,7 @@
 # como-hacer-vista-previa-de-imagen-cargada-en-input-file
-Como hacer vista previa de una Imagen cargada en un Input File usando CSS3 y JavaScript
+Como hacer vista previa de una Imagen cargada en un Input File usando CSS3 y JavaScripto
+
+/* Nota: Debes agregar una imagen de fondo inicial al Input File para indicarle al usuario los requrimientos de la imagen que quieres que cague, en el ejemplo se tiene "img/otros/cargar-600-314.svg" de ejemplo, debes crear tu imagen */
 
     <style> 
         body {
